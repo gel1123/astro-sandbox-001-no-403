@@ -1,0 +1,11 @@
+---
+import Layout from "../layouts/Layout.astro";
+
+/** クエリパラメータから取得したエラーコード */
+const message = Astro.url.searchParams.get("message");
+---
+
+<Layout title="post-success page">
+  <h1>post success</h1>
+  <p>message: {message}</p>
+</Layout>
