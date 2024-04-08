@@ -4,7 +4,7 @@ https://github.com/sst/ion/issues/196
 
 Following the advice in the issue, here is the version of the repository where the Server Route no longer results in a 403 error:
 
-[https://github.com/sst/ion/issues/196](https://github.com/gel1123/astro-sandbox-001-no-403)
+https://github.com/gel1123/astro-sandbox-001-no-403
 
 ______________________________________
 
